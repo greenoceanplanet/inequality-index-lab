@@ -1,0 +1,5 @@
+{
+  "name": "Inequality Index Explorer",
+  "description": "An interactive educational tool to explore and understand inequality indices like the Gini coefficient and Theil index using virtual income datasets.",
+  "requestFramePermissions": []
+}
